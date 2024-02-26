@@ -2,7 +2,7 @@
 
 ## 示例
 
-![亲戚计算器](https://cdn.feizhaojun.com/static/qrcode-relationship-mp.jpg)
+<img src="https://cdn.feizhaojun.com/static/qrcode-relationship-mp.jpg" style="width:200px;" />
 
 ## 其他
 
