@@ -4,6 +4,8 @@
 
 <img src="https://cdn.feizhaojun.com/static/qrcode-relationship-mp.jpg" style="width:200px;" />
 
+<img src="https://cdn.feizhaojun.com/static/relationship-mp-demo.png" style="width:512px;" />
+
 ## 其他
 
 算法基于：[https://github.com/mumuy/relationship](https://github.com/mumuy/relationship)
