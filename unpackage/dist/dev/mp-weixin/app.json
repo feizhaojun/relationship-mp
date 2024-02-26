@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "乐哥亲戚计算器",
+    "navigationBarBackgroundColor": "#333",
+    "backgroundColor": "#333"
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "乐哥亲戚计算器",
+  "usingComponents": {
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}
